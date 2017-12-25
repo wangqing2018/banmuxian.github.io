@@ -4,34 +4,29 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files 
 
-### Markdown
- 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown Markdown是一个轻量级且易于使用的语法，可用于设计您的文字。它包括约定。。。
 
 ```markdown
 Syntax highlighted code block
+＃标题1 。
+##标题2 。
+###标题3 。
 
-# Header 1 
-## Header 2 
-### Header 3 
+ - 项目符号。
+  - 列表。
 
-- Bulleted 
-- List
-
-1. Numbered
-2. List
+1. Num
+bered2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+有关更多详细信息，请参阅[GitHub Flavored Markdown] （https://guides.github.com/features/mastering-markdown/）。。
+### Jekyll主题。。。
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangqing2018/banmuxian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+您的网页将使用您在[资源库设置] （https://github.com/wangqing2018/banmuxian.github.io/settings）中选择的Jekyll主题的布局和样式。这个主题的名字保存在Jekyll`_config.yml`配置文件中。。
+###支持或联系..
+   与页面有问题？看看我们的[文档] （https://help.github.com/categories/github-pages-basics/）或[联系支持] （https://github.com/contact），我们会帮你分类出。
+..。
