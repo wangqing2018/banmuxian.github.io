@@ -31,3 +31,6 @@ bered2. List
    与页面有问题？看看我们的[文档]（https://help.github.com/categories/github-pages-basics/）或[联系支持]（https://github.com/contact），我们会帮你分类出。
 .....
 我好象成功地把Githu的默认页面给弄乱了？
+
+##再试一下，以为这个东东对中文的支持不好呢，看起来还不错。
+这里才是我重新写的，看一看会怎样！
